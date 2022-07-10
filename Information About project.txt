@@ -1,0 +1,17 @@
+
+ This Project is Done in BI tool TABLEAU software
+
+About project :- 
+	
+	The harman company which is famous in building the electronic gagets and accessories like headphone , speaker etc
+	This company want to know the 4 year of sales in india at particluar region and which product is more in demand
+	gaining the lot of profit plus which dealer is there who is gaining more profit and getting good margin.
+
+Goal :- 
+	
+	Build the Live dashboard that give one click buttom information of all four year of data with profit revenue, profit, margin, top 5 product
+	 top 5 seller , which city is giving the large profit in india with product.
+
+ IMPORTANT :-
+
+	 The dataset is fetch from the online server that MYSQL database.. 
